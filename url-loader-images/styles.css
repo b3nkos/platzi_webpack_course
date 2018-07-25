@@ -1,0 +1,12 @@
+body {
+    background-color: #64B5F6;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    font-size: 40px;
+    color: #fff;
+    background-image: url("./platzi.png");
+    background-repeat: no-repeat;
+}
